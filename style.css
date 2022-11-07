@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sphere {
+    fill: rgb(53, 53, 190);
+}
+
+.ac {
+    fill: rgb(120, 193, 120);
+    stroke: black;
+    stroke-width: 0.25px;
+}
+
+.ac:hover {
+    fill: coral;
+}
